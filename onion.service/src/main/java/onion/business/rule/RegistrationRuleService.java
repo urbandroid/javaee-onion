@@ -1,6 +1,6 @@
 package onion.business.rule;
 
-import onion.core.entities.Person;
+import onion.core.business.objects.Person;
 
 public interface RegistrationRuleService {
 

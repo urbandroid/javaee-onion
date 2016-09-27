@@ -1,6 +1,6 @@
 package onion.infrastructure.persistence.entities;
 
-import onion.core.entities.Person;
+import onion.core.business.objects.Person;
 
 // @Entity
 public class PersonEntity extends Person {

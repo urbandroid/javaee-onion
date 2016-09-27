@@ -1,6 +1,6 @@
 package onion.business.service;
 
-import onion.core.entities.Person;
+import onion.core.business.objects.Person;
 
 // Registration Service maps to Registration Process! ;-)
 // This is the place to map all the service call definitions from a given process

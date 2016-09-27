@@ -2,7 +2,7 @@ package onion.infrastructure.implementation.service;
 
 import onion.business.rule.RegistrationRuleService;
 import onion.business.service.RegistrationBusinessService;
-import onion.core.entities.Person;
+import onion.core.business.objects.Person;
 
 public class RegistrationService implements RegistrationBusinessService, RegistrationRuleService {
 
