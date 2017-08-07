@@ -1,2 +1,1 @@
-Die Service-Schicht bezieht sich auf Vorgänge bzw. (Sub-)Prozesse und enthält Schnittstellen, welche die für die Abwicklung des jeweiligen Prozesses benötigte Funktionalität spezifizieren.
-
+The service layer refers to pre-processes or (sub-) processes and contains interfaces which specify the functionality required for the processing of the respective process.
